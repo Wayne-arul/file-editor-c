@@ -29,9 +29,9 @@ A basic text editor implemented in C, allowing users to read and write text file
 
 Choose an option from the menu:
 
-1: Read the contents of the file.
-2: Write new content to the file.
-3: Exit the text editor.
+1. Read the contents of the file.
+2. Write new content to the file.
+3. Exit the text editor.
 
 ## Contributing
 
